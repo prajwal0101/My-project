@@ -1,2 +1,2 @@
-# LoanAssistant
-Consumer Loan Assistant Project 
+# Home-Inventory-Manager
+Home Inventory Manager Project...
